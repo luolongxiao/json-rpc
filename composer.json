@@ -1,5 +1,5 @@
 {
-    "name": "Point/rpc-client",
+    "name": "point/rpc-client",
     "description": "实现thinkphp6使用jsonrpc-http访问hyperf服务.",
     "license": "Point",
     "keywords": [
